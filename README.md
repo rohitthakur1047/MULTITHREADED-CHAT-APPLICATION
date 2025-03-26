@@ -51,6 +51,8 @@ Each client:
 
 Connects to the server
 
+![Image](https://github.com/user-attachments/assets/4b74abc6-1b76-4e72-9cc4-7a6eeca7b0aa)
+
 Starts a separate thread to listen for incoming messages
 
 Uses the main thread to send messages to the server
